@@ -1,0 +1,1 @@
+export {UserInstance} from './userModel';
