@@ -1,4 +1,4 @@
-# Backend Assessment
+# Paystack Integration
 
 
 Create a user system for a financial application, that allows the user:
